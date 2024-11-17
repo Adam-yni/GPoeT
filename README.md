@@ -39,7 +39,7 @@ Used **RoPE (Rotary Positional Encoding)** for efficient handling of relative to
 ## Next Steps 🚀  
 
 ### Reinforcement Learning 🤖  
-Developing a reinforcement learning algorithm inspired by **GFlowNets** to enhance rhyme generation and improve thematic consistency.  
+Developing a reinforcement learning algorithm inspired by **GFlowNets** (my approach is strongly inspired by this article https://arxiv.org/abs/2310.04363) to enhance rhyme generation and improve thematic consistency.  
 
 ---
 
@@ -69,25 +69,26 @@ With a **temperature < 0.4**, the model sometimes produces surprising and intrig
 > L'homme est un coeur en chemin s'élance et s'envole.  
 > L'homme est un vent se dresse à l'ombre des cieux.  
 > L'amour est un ciel bleu  
-> L'ombre des fleurs s'envole, et l'on voit s'étend"*  
+> L'ombre des fleurs s'envole, /cut"*  
 
 ---
 
-## English Translation 🌍
+## Word-for-Word English Translation 🌍
 
 > *"With the death of the golden hairs,  
-> Evening spreads death.  
+> The evening spreads the death.  
 >  
-> We see in the shadows a soul invisible to man.  
-> Man is a sun from a flower that is torn apart,  
+> We see in the shadow a soul invisible to the man.  
+> The man is a sun of a flower which tears itself,  
 > Love is always naked  
-> The soul in the shadow of the heavens goes away at night.  
-> Man is a wind that rises and laments.  
-> Man is alone and death.  
-> Man is a heart on the way soars and flies away.  
-> Man is a wind standing in the shadow of the heavens.  
+> The soul in the shadow of the heavens goes away makes the night.  
+> The man is a wind rises and laments.  
+> The man is alone and the death.  
+> The man is a heart in the way launches itself and flies away.  
+> The man is a wind rises in the shadow of the heavens.  
 > Love is a blue sky  
-> The shadow of the flowers flies away, and we see it extend."*  
+> The shadow of the flowers flies away, /cut"*  
+
 
 ---
 
