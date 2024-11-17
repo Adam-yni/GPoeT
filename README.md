@@ -39,7 +39,7 @@ Used **RoPE (Rotary Positional Encoding)** for efficient handling of relative to
 ## Next Steps 🚀  
 
 ### Reinforcement Learning 🤖  
-Developing a reinforcement learning algorithm inspired by **GFlowNets** (my approach is strongly inspired by this article https://arxiv.org/abs/2310.04363) to enhance rhyme generation and improve thematic consistency.  
+Developing a reinforcement learning algorithm inspired by **GFlowNets** (my approach is strongly inspired by this article https://arxiv.org/abs/2310.04363) to enhance rhyme generation and improve thematic coherence while preserving diversity in the generated verses.  
 
 ---
 
