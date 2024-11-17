@@ -57,37 +57,37 @@ With a **temperature < 0.4**, the model sometimes produces surprising and intrig
 
 ## Generated French Poem 🇫🇷
 
-> *"Avec la mort des cheveux d'or,  
->           Le soir étend la mort.  
->  
-> On voit dans l'ombre une âme invisible à l'homme.  
-> L'homme est un soleil d'une fleur qui se déchire,  
->            L'amour est toujours nue  
-> L'âme dans l'ombre des cieux s'en va fait la nuit.  
-> L'homme est un vent se dresse et se lamente.  
->            L'homme est seul et la mort.  
-> L'homme est un coeur en chemin s'élance et s'envole.  
-> L'homme est un vent se dresse à l'ombre des cieux.  
->            L'amour est un ciel bleu  
-> L'ombre des fleurs s'envole, /cut"*  
+*"Avec la mort des cheveux d'or,  
+           Le soir étend la mort.  
+  
+ On voit dans l'ombre une âme invisible à l'homme.  
+ L'homme est un soleil d'une fleur qui se déchire,  
+            L'amour est toujours nue  
+ L'âme dans l'ombre des cieux s'en va fait la nuit.  
+ L'homme est un vent se dresse et se lamente.  
+            L'homme est seul et la mort.  
+ L'homme est un coeur en chemin s'élance et s'envole.  
+ L'homme est un vent se dresse à l'ombre des cieux.  
+            L'amour est un ciel bleu  
+ L'ombre des fleurs s'envole, /cut"*  
 
 ---
 
 ## Word-for-Word English Translation 🌍
 
-> *"With the death of the golden hairs,  
->        The evening spreads the death.  
->  
-> We see in the shadow a soul invisible to the man.  
-> The man is a sun of a flower which tears itself,  
->            Love is always naked  
-> The soul in the shadow of the heavens goes away makes the night.  
-> The man is a wind rises and laments.  
->            The man is alone and the death.  
-> The man is a heart in the way launches itself and flies away.  
-> The man is a wind rises in the shadow of the heavens.  
->            Love is a blue sky  
-> The shadow of the flowers flies away, /cut"*  
+ *"With the death of the golden hairs,  
+        The evening spreads the death.  
+  
+ We see in the shadow a soul invisible to the man.  
+ The man is a sun of a flower which tears itself,  
+            Love is always naked  
+ The soul in the shadow of the heavens goes away makes the night.  
+ The man is a wind rises and laments.  
+            The man is alone and the death.  
+ The man is a heart in the way launches itself and flies away.  
+ The man is a wind rises in the shadow of the heavens.  
+            Love is a blue sky  
+ The shadow of the flowers flies away, /cut"*  
 
 
 ---
