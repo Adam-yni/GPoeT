@@ -5,7 +5,6 @@
 A small personal project to create a **tiny language model (LLM)** for generating poetry in French. The model contains **40M parameters** and was entirely trained on a **Kaggle notebook** (free tier with an NVIDIA P100 GPU, 16GB VRAM). 
 
 ### Features 🌟
-- ✅ **Accurate grammar**: Handles gender and plural correctly.  
 - 📝 **Coherent verses**: The output is mostly consistent and meaningful (though very abstract at times..).  
 - 🎛️ **Adjustable creativity**: A temperature setting below `0.4` can yield surprisingly interesting results!  
 - ❌ **No rhymes (yet)**: The current model rarely rhymes. I hope that a second training phase using reinforcement learning will address this.  
