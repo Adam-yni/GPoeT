@@ -44,9 +44,7 @@ Developing a reinforcement learning algorithm inspired by **GFlowNets** (my appr
 
 ## Why Poetry? 🎨  
 
-Poetry is a challenging and nuanced art form. This project explores how a simple LLM can generate creative text. Like many of us reading a poem in school and struggling to decipher its meaning, this tiny LLM might be creating verses that hold an abstract beauty we can't always comprehend.  
-
-Who knows? Maybe it's writing poetry that resonates beyond its apparent limits!  
+Poetry is a challenging and nuanced art form. This project explores how a simple LLM can generate creative text. We've all had to read a poem in school where some lines seemed completely abstract... Writing poetry makes the line between "the AI is just spouting nonsense" and "the AI is crafting those same weird verses we found confusing as kids" very, very blurry! 
 
 ---
 
