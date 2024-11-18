@@ -92,7 +92,7 @@ With a **temperature < 0.4**, the model sometimes produces surprising and intrig
 ---
 
 ### Notes on Generated Text 📜  
-This word-for-word translation keeps the structure and phrasing of the original poem without correcting any grammatical errors or inconsistencies. The translation is intentionally literal, preserving the original's abstract and somewhat disjointed nature.
+This word-for-word translation keeps the structure and phrasing of the original poem without correcting any grammatical errors or inconsistencies.
 
 ### Contributions & Feedback 💬  
 This project is a work in progress—feel free to suggest ideas or improvements!  
