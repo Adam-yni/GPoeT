@@ -1,58 +1,58 @@
-# Tiny Poetic LLM 🎭✨
+# Tiny Poetic LLM 
 
 ## About the Project
 
 A small personal project to create a **tiny language model (LLM)** for generating poetry in French. The model contains **40M parameters** and was entirely trained on a **Kaggle notebook** (free tier with an NVIDIA P100 GPU, 16GB VRAM). 
 
-### Features 🌟
-- 📝 **Coherent verses**: The output is mostly consistent and meaningful (though very abstract at times..).  
-- 🎛️ **Adjustable creativity**: A temperature setting below `0.4` can yield surprisingly interesting results!  
-- ❌ **No rhymes (yet)**: The current model rarely rhymes. I hope that a second training phase using reinforcement learning will address this.  
+### Features 
+-  **Coherent verses**: The output is mostly consistent and meaningful (though very abstract at times..).  
+-  **Adjustable creativity**: A temperature setting below `0.4` can yield surprisingly interesting results!  
+-  **No rhymes (yet)**: The current model rarely rhymes. I hope that a second training phase using reinforcement learning will address this.  
 
 ---
 
-## Dataset 📚
+## Dataset 
 
 The model was trained on a custom dataset containing **2.2M characters** compiled from public domain poetry collections on **Project Gutenberg**, featuring:  
 - **Victor Hugo**  
 - **Charles Baudelaire**  
 - **Paul Verlaine**
 
-### Tokenizer ✂️  
+### Tokenizer 
 The tokenizer was built using **Byte Pair Encoding (BPE)** with a **tiny vocabulary of 128 tokens**, including:  
 - Uppercase and lowercase letters.  
 - Frequently recurring character groups.  
 
-### Positional Encoding 🌀  
+### Positional Encoding   
 Used **RoPE (Rotary Positional Encoding)** for efficient handling of relative token positions.  
 
 ---
 
-## Training 🏋️‍♂️
+## Training 
 
 - Trained entirely on **Kaggle's free GPU environment**.  
 - The model is compact and focuses on generating stylistically accurate poetry.  
 
 ---
 
-## Next Steps 🚀  
+## Next Steps 
 
-### Reinforcement Learning 🤖  
+### Reinforcement Learning   
 Developing a reinforcement learning algorithm inspired by **GFlowNets** (my approach is strongly inspired by this article https://arxiv.org/abs/2310.04363) to enhance rhyme generation and improve thematic coherence while preserving diversity in the generated verses.  
 
 ---
 
-## Why Poetry? 🎨  
+## Why Poetry?   
 
 Poetry is a challenging and nuanced art form. This project explores how a simple LLM can generate creative text. We've all had to read a poem in school where some lines seemed completely abstract... Writing poetry makes the line between "the AI is just spouting nonsense" and "the AI is crafting those same weird verses we found confusing as kids" very, very blurry! 
 
 ---
 
-## Example Outputs ✍️  
+## Example Outputs   
 
 With a **temperature < 0.4**, the model sometimes produces surprising and intriguing verses. Here's a sample output (with temperature = 0.1):  
 
-## Generated French Poem 🇫🇷
+## Generated French Poem
 
 > *"Avec la mort des cheveux d'or,  
 >     Le soir étend la mort.  
@@ -70,7 +70,7 @@ With a **temperature < 0.4**, the model sometimes produces surprising and intrig
 
 ---
 
-## Word-for-Word English Translation 🌍
+## Word-for-Word English Translation 
 
 > *"With the death of the golden hairs,  
 >     The evening spreads the death.  
@@ -88,8 +88,8 @@ With a **temperature < 0.4**, the model sometimes produces surprising and intrig
 
 ---
 
-### Notes on Generated Text 📜  
+### Notes on Generated Text 
 This word-for-word translation keeps the structure and phrasing of the original poem without correcting any grammatical errors or inconsistencies.
 
-### Contributions & Feedback 💬  
+### Contributions & Feedback   
 This project is a work in progress—feel free to suggest ideas or improvements!  
